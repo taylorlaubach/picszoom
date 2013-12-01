@@ -1,0 +1,88 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1329" measuredH="638" mockupW="931" mockupH="583">
+  <controls>
+    <control controlID="9" controlTypeID="__group__" x="755" y="225" w="228" h="170" measuredW="228" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="228" h="170" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="9"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="15" y="9" w="-1" h="-1" measuredW="74" measuredH="21" zOrder="1" locked="false" isInGroup="9">
+          <controlProperties>
+            <text>Main%20Screen</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="15" y="37" w="-1" h="-1" measuredW="200" measuredH="21" zOrder="2" locked="false" isInGroup="9">
+          <controlProperties>
+            <text>%28with%20points%20and%20prize%20countdown%29</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="11" controlTypeID="__group__" x="1101" y="55" w="228" h="170" measuredW="228" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="228" h="170" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="11"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="15" y="9" w="-1" h="-1" measuredW="61" measuredH="21" zOrder="1" locked="false" isInGroup="11">
+          <controlProperties>
+            <text>Messages</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="15" y="37" w="-1" h="-1" measuredW="95" measuredH="21" zOrder="2" locked="false" isInGroup="11">
+          <controlProperties>
+            <text>%28send%20/%20receive%29</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="13" controlTypeID="__group__" x="1101" y="265" w="228" h="170" measuredW="228" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="228" h="170" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="13"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="15" y="9" w="-1" h="-1" measuredW="127" measuredH="21" zOrder="1" locked="false" isInGroup="13">
+          <controlProperties>
+            <text>View%20Own%20Comments</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="14" controlTypeID="__group__" x="1101" y="468" w="228" h="170" measuredW="228" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="2" controlTypeID="__group__" x="0" y="0" w="228" h="170" measuredW="228" measuredH="170" zOrder="0" locked="false" isInGroup="14">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="228" h="170" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="15" y="9" w="-1" h="-1" measuredW="94" measuredH="21" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <text>View%20Own%20Likes</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="24" controlTypeID="__group__" x="398" y="265" w="228" h="170" measuredW="228" measuredH="170" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="228" h="170" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="24"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="15" y="9" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="1" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>Post</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="15" y="37" w="-1" h="-1" measuredW="171" measuredH="21" zOrder="2" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>%28and%20attach%20photo/video/link%29</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="25" controlTypeID="__group__" x="398" y="55" w="228" h="170" measuredW="228" measuredH="170" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="228" h="170" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="25"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="15" y="9" w="-1" h="-1" measuredW="153" measuredH="21" zOrder="1" locked="false" isInGroup="25">
+          <controlProperties>
+            <text>View%20New%20/%20Popular%20Posts</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="15" y="37" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="2" locked="false" isInGroup="25">
+          <controlProperties>
+            <text>%28and%20vote%29</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

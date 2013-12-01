@@ -1,0 +1,75 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="561" measuredH="548" mockupW="510" mockupH="519">
+  <controls>
+    <control controlID="1" controlTypeID="__group__" x="51" y="29" w="386" h="519" measuredW="386" measuredH="519" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="386" h="519" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+          <controlProperties>
+            <backgroundAlpha>1</backgroundAlpha>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="27" y="36" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="1">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="155" y="36" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="1">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="279" y="36" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="1">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="27" y="144" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="1">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="155" y="144" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="1">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="279" y="144" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="1">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="29" y="266" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="1">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="157" y="266" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="1">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="281" y="266" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="1">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="162" y="8" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="10" locked="false" isInGroup="1">
+          <controlProperties>
+            <text>My%20Photos</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="9" y="5" w="113" h="27" measuredW="113" measuredH="27" zOrder="11" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>LeftArrowIcon%7Cxsmall</icon>
+            <text>Back%20to%20Nav</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="486" y="211" w="-1" h="-1" measuredW="75" measuredH="75" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>72</size>
+        <text>12</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
